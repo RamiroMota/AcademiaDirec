@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Estilos para motores Webkit y blink (Chrome, Safari, Opera... )*/
+
+.contenedor::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+.contenedor::-webkit-scrollbar:vertical {
+    width:10px;
+}
+
+.contenedor::-webkit-scrollbar-button:increment,.contenedor::-webkit-scrollbar-button {
+    display: none;
+} 
+
+.contenedor::-webkit-scrollbar:horizontal {
+    height: 10px;
+}
+
+.contenedor::-webkit-scrollbar-thumb {
+    background-color: rgb(55 65 81);
+    border-radius: 20px;
+    border: 2px solid #6b7280;
+}
+
+.contenedor::-webkit-scrollbar-track {
+    border-radius: 10px;  
+}
