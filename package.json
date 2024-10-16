@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@szhsin/react-menu": "^4.2.2",
-    "git-resolve-conflict": "^2.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.3.0",
