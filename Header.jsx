@@ -23,7 +23,7 @@ function Header() {
         menuClassName="bg-gray-800 P-4"
         >
           <h1 className='text-slate-300 text-center font-medium'>Notificaciones</h1>
-            <MenuItem className="p-0 hover:bg-transparent">Item 1</MenuItem>
+            <MenuItem className="p-0 hover:bg-transparent">Corrección</MenuItem>
           </Menu>
         <Menu menuButton={
           <MenuButton className='flex items-center gap-x-2 hover:bg-gray-700 p-2 rounded-lg transition-colors'>
