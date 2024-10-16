@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+
+Se agrego para los menus dropdown el componente de la pagina: https://szhsin.github.io/react-menu 
+
+instalacion: npm install @szhsin/react-menu
