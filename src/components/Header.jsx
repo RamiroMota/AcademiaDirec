@@ -63,7 +63,7 @@ function Header() {
           </Menu>
         <Menu menuButton={
           <MenuButton className='flex items-center gap-x-2 hover:bg-gray-700 p-2 rounded-lg transition-colors'>
-            <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Avatar.jpg" className='w-8 h-8 p-0.5 rounded-full object-cover ring-2 ring-green-400' />
+            <img src="./fernando.webp" alt="Avatar.jpg" className='w-8 h-8 p-0.5 rounded-full object-cover ring-2 ring-green-400' />
             <span>Herman Perez López</span>
             <RiArrowDownSLine />
           </MenuButton>}
