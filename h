@@ -1,0 +1,322 @@
+[33mcommit f64f243713db53f44c8e38c387da3b17a5b5f0fc[m[33m ([m[1;36mHEAD -> [m[1;32mLuber[m[33m, [m[1;31morigin/Luber[m[33m)[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Fri Oct 18 14:35:23 2024 -0600
+
+    Actualizacion: sidebar Inscripcion de grupo
+
+[33mcommit d985308d4716f7509fcc73215a2f54ac02de52fd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 6ad9466 19b21b3
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Fri Oct 18 14:29:49 2024 -0600
+
+    Merge branch 'Luber'
+
+[33mcommit 19b21b3be04ca65dba0e3ac217c8ffccaaa617c4[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Fri Oct 18 14:28:09 2024 -0600
+
+    aactualizacion:sidebar
+
+[33mcommit 6ad946693190e5c27cfeb17cc90972fcacf22764[m
+Merge: aa7a46b cb847c8
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Fri Oct 18 13:55:19 2024 -0600
+
+    Merge pull request #14 from RamiroMota/Ramiro
+    
+    Se añadieron paginas y  rutas
+
+[33mcommit cb847c8c019afa0792c88e631fe06452fde4d731[m[33m ([m[1;31morigin/Ramiro[m[33m)[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Fri Oct 18 13:56:38 2024 -0600
+
+    Se añadieron paginas y  rutas
+
+[33mcommit aa7a46b8c5af583efac2b7c38e2c83ec9e208992[m
+Merge: fa51935 25bc544
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Thu Oct 17 16:55:16 2024 -0600
+
+    Merge branch 'Ramiro'
+
+[33mcommit 25bc54462ac9e707ea4db03dea8521ebd9c84e41[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Thu Oct 17 16:51:32 2024 -0600
+
+    Se modificaron los elementos del navbar
+
+[33mcommit fa519355aeba3c8cca1ef2ba756aff19cba0814d[m
+Merge: 7798f2a 959f61f
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Thu Oct 17 16:49:31 2024 -0600
+
+    Merge branch 'Luber'
+
+[33mcommit 959f61f0390c60712d72f998fe79f5634b6d082f[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Thu Oct 17 16:47:16 2024 -0600
+
+    Actualizado Sidebar funcionando
+
+[33mcommit 7798f2a49f20c3633bcab89004a7d7e7e335f0b2[m
+Merge: 796cec3 3793f08
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Thu Oct 17 14:01:25 2024 -0600
+
+    Merge branch 'Luber'
+
+[33mcommit 3793f08a2ee093d6818d41a19f7b52b92320ed3b[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Thu Oct 17 13:59:27 2024 -0600
+
+    Sidebar: Menú
+
+[33mcommit 796cec36d539fc2ebcdba1d3c4e3bd287127d65d[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Thu Oct 17 12:44:31 2024 -0600
+
+    Se cambio el avatar por una foto
+
+[33mcommit e81f1fe11d17de5f677a1fc0a233340020a523d6[m
+Merge: 5257161 27b53f1
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Thu Oct 17 12:41:14 2024 -0600
+
+    Merge branch 'Ramiro' of https://github.com/RamiroMota/AcademiaDirec into Ramiro
+
+[33mcommit 52571617d25c4315b222c3d79cb824ba2c421280[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Thu Oct 17 12:39:52 2024 -0600
+
+    Se cambio el avatar por una foto
+
+[33mcommit 27b53f1c7e6fd11405b9222676c99aca44429f8e[m
+Merge: 3126b77 3e2a3ba
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 17:39:53 2024 -0600
+
+    Merge pull request #13 from RamiroMota/main
+    
+    Merge pull request #12 from RamiroMota/Ramiro
+
+[33mcommit 3126b77bf264c3713e42ee27c165d63daa56fd95[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Wed Oct 16 17:38:59 2024 -0600
+
+    Se trabajo en las notificaciones
+
+[33mcommit 3e2a3bab4eb1d2189143a97f0216897b86edb818[m
+Merge: 5c4cd83 3126b77
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 17:37:40 2024 -0600
+
+    Merge pull request #12 from RamiroMota/Ramiro
+    
+    Se trabajó en las notificaciones del navbar
+
+[33mcommit 1dddb9f2afa8e396e12809bd1ef9cf3e783b789c[m
+Merge: e8f90ff 5c4cd83
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 14:42:05 2024 -0600
+
+    Merge pull request #11 from RamiroMota/main
+    
+    asda
+
+[33mcommit 5c4cd83ea19cd564bdf1a2f312dd20e6317b4914[m
+Merge: ba00845 d474488
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 14:41:35 2024 -0600
+
+    Merge pull request #10 from RamiroMota/Luber
+    
+    Merge pull request #9 from RamiroMota/main
+
+[33mcommit d474488092aa1cae64a4d6d895f17f5a917a1a8f[m
+Merge: 738a95a ba00845
+Author: Luber <89616841+Mugirad@users.noreply.github.com>
+Date:   Wed Oct 16 14:41:10 2024 -0600
+
+    Merge pull request #9 from RamiroMota/main
+    
+    Merge pull request #7 from RamiroMota/Luber
+
+[33mcommit e8f90ff5580b0a68e240d2834ff11035b46f6229[m
+Merge: 335d284 ba00845
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 14:41:09 2024 -0600
+
+    Merge pull request #8 from RamiroMota/main
+    
+    commits
+
+[33mcommit ba00845cd917cef003163ddb927d2b3776c7310f[m
+Merge: 656810c 738a95a
+Author: Luber <89616841+Mugirad@users.noreply.github.com>
+Date:   Wed Oct 16 14:40:38 2024 -0600
+
+    Merge pull request #7 from RamiroMota/Luber
+    
+    Luber
+
+[33mcommit 738a95afbe55681e0bc5f57083488efa0b76344e[m
+Merge: 5392751 656810c
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 14:40:28 2024 -0600
+
+    Merge pull request #6 from RamiroMota/main
+    
+    prueba de luber
+
+[33mcommit 335d284fe5d13ee3b56c669ebffeffef90e01bc9[m
+Merge: 3b3f36e 656810c
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 14:35:35 2024 -0600
+
+    Merge pull request #5 from RamiroMota/main
+    
+    actualización
+
+[33mcommit 656810c4e920015a975477ec2e359eda5155a579[m
+Merge: a05fe44 3b3f36e
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 14:35:23 2024 -0600
+
+    Merge branch 'Ramiro' into main
+
+[33mcommit 5392751688236782a7ca5c4176bc663c6309e222[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 14:24:15 2024 -0600
+
+    actualización: prueba
+
+[33mcommit 7cec526a49c374e497374fe73134ea2dcfdd592f[m
+Merge: e1858ad e8934bd
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 14:21:21 2024 -0600
+
+    Merge branch 'Luber' of https://github.com/RamiroMota/AcademiaDirec into Luber
+
+[33mcommit e1858ad84940db1b0a5c34a8b765c1c0453c793f[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 14:20:53 2024 -0600
+
+    que bergas
+
+[33mcommit a05fe441026a20578fe690a11b4de1355de31347[m
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 14:18:36 2024 -0600
+
+    se agrego Corrección
+
+[33mcommit 1a618263a028a2165824c5d1fc63e60490a61a86[m
+Merge: 1b3bd33 7e2eb39
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 14:16:48 2024 -0600
+
+    Merge pull request #4 from RamiroMota/RamiroMota
+    
+    se agrego López
+
+[33mcommit 7e2eb39a408d04be3d186f0c1817ab3d9e0d60bf[m[33m ([m[1;31morigin/RamiroMota[m[33m)[m
+Author: Ramiro Mota <34577952+RamiroMota@users.noreply.github.com>
+Date:   Wed Oct 16 14:16:38 2024 -0600
+
+    se agrego López
+
+[33mcommit 1b3bd3335b924532030121d43c03bdcfa5aabe0e[m
+Merge: 13b8d6e e8934bd
+Author: Luber <89616841+Mugirad@users.noreply.github.com>
+Date:   Wed Oct 16 14:09:41 2024 -0600
+
+    Merge pull request #3 from RamiroMota/Luber
+    
+    Luber
+
+[33mcommit e8934bd2bfa38a81de3fcd4fc66fac3b11dfaa2f[m
+Merge: cae1411 13b8d6e
+Author: Luber <89616841+Mugirad@users.noreply.github.com>
+Date:   Wed Oct 16 14:09:33 2024 -0600
+
+    Merge branch 'main' into Luber
+
+[33mcommit 13b8d6ee4917054833c1f57133c3ee343f200601[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Wed Oct 16 14:05:41 2024 -0600
+
+    Se trabajo navbar
+
+[33mcommit cae14119d195da5d5437f4eabd70678bcd7a613c[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 14:04:36 2024 -0600
+
+    Prueba:Luber
+
+[33mcommit d748f39e54784c8fd2bf177aa6e407a91427171d[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 13:52:12 2024 -0600
+
+    prueba: arrow sidebar
+
+[33mcommit f95e13f63ed63f91cf4bf67a1754537cc27a4dc5[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 13:46:11 2024 -0600
+
+    Se agrego un arrow para sidebar
+
+[33mcommit 97ea4ee80adfbe3dd837a9b4c3f91e9ddc97daf2[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 13:41:22 2024 -0600
+
+    Actualización Sidebar 2
+
+[33mcommit 3b3f36eb36432768aa523aec7801c43ccd0cb26a[m[33m ([m[1;32mRamiro[m[33m)[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Wed Oct 16 13:27:37 2024 -0600
+
+    se agrego una nueva linea de comando
+
+[33mcommit 00d827225c27821ae37d5ed677a4b7e2ef1d8f13[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Wed Oct 16 13:26:15 2024 -0600
+
+    se agrego una nota al gitinore
+
+[33mcommit b86fcf459ed0df17d04b06e1735e6e415cb8d7ef[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 13:23:09 2024 -0600
+
+    Actualización conflic/package-lock.json
+
+[33mcommit 9496b522da5389db89cb5aba02a504aabba3e86a[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 13:13:10 2024 -0600
+
+    Trabajo en Sidebar actualización Package-lock.json
+
+[33mcommit 11b06142670537b58be0448e322c4d51ac1cd184[m
+Merge: 77c2556 32bdb09
+Author: Luber <89616841+Mugirad@users.noreply.github.com>
+Date:   Wed Oct 16 13:05:57 2024 -0600
+
+    Merge pull request #1 from RamiroMota/Luber
+    
+    Trabajo en Sidebar
+
+[33mcommit 32bdb09a55c90a59376d084c8e05fe9c51028fd4[m
+Author: Mugirad <mcrades001@gmail.com>
+Date:   Wed Oct 16 13:01:17 2024 -0600
+
+    Trabajo en Sidebar
+
+[33mcommit c0ab57c61bdfd1742a76714731c3acb02e886e53[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Wed Oct 16 12:44:12 2024 -0600
+
+    Se trabajo en el navbar, agregando iconos
+
+[33mcommit 77c2556e2bc3c1dba859e18a89e8de6bc4a05254[m
+Author: Ramiro Mota <rockett117@gmail.com>
+Date:   Mon Oct 14 13:12:37 2024 -0600
+
+    Respositorio de Academia inicio
