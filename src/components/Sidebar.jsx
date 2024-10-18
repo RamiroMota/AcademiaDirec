@@ -41,7 +41,7 @@ const Sidebar = () => {
           id: 'proyectos',
           title: 'Proyectos',
           submenu: [
-            { title: "Líder de grupo", path: "/lider-de-grupo" },
+            { title: "Inscripción", path: "/inscripcion-grupo" },
             { title: "Academias", path: "/academias" },
             { title: "Evaluadores", path: "/evaluadores" }
           ]
