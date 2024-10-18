@@ -13,6 +13,10 @@ import Error404 from './pages/Error404'
 import Home from './pages/admin/Home'
 import Chat from './pages/auth/Chat'
 
+/*---------------Pages Formatos------------------*/
+import Inscripcion from './pages/formatos/Inscripcion-grupos'
+import Evaluacion from './pages/formatos/Inscripcion-grupos-evaluacion'
+
 /*--------------Layouts-------------------*/
 import LayoutAdmin from './layouts/LayoutAdmin'
 import LayoutAuth from './layouts/LayoutAuth'
@@ -31,6 +35,8 @@ export default function App() {
         <Route path='/' element={<LayoutAdmin />}>
           <Route index element={<Home />} />
           <Route path='chat' element={<Chat />} />
+          <Route path='inscripcion-grupo' element={<Inscripcion />} />
+          <Route path='evaluacion-inscripcion' element={<Evaluacion />} />
         </Route>
         <Route path='*' element={<Error404 />} />
       </Routes>
